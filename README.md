@@ -1,2 +1,3 @@
-# applications-flow
-applications flow using grapql
+# My Audition Repository
+
+Example of application flow using GraphQL
